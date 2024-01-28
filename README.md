@@ -13,6 +13,10 @@
 - UIKit
 - Combine
 
+## Progress
+
+![Screenshot-V1](https://github.com/hshardik/Musely/blob/main/App_Demo.gif)
+  
 ## Future Features
 - **Customizable Notifications**: Set reminders to receive your daily dose of inspiration at the time that suits you best.
 - **Save Your Favorites**: Keep a collection of quotes that resonate with you for quick access anytime.
